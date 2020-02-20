@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * A sample Spring Boot application that starts the Camel routes.
+ * Some new comments.
  */
 @SpringBootApplication
 public class CamelApplication {
